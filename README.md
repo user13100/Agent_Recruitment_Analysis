@@ -1,6 +1,6 @@
 # Agent_Recruitment_Analysis
 
-PROBLEM STATEMENT:
+### PROBLEM STATEMENT:
 
 Fintro is an offline financial distribution company operating across India from past 10 years. They sell financial products to consumers with the help of agents. The managers at Fintro identify the right talents and recruit these agents. Once the candidate has been hired by the company they undergo a training for next 7 days and have to clear an assessment to become an agent with Fintro.  The agents work as freelancers and get paid in commission for each product they sell.
 
